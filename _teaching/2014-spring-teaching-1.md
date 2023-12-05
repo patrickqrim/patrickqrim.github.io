@@ -4,7 +4,7 @@ collection: teaching
 type: "Head Instructor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Caltech"
-date: 2022-01-01
+#date: 2022-01-01
 location: "City, Country"
 ---
 
