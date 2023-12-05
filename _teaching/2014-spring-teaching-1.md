@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Vision for Research (CS 12)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Caltech"
+type: #"Undergraduate course"
+permalink: "https://sites.google.com/view/cs-12-cv-for-research/home?authuser=0"
+venue: "California Institute of Technology"
 date: 2022--2023
-location: "City, Country"
+location: #"City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
