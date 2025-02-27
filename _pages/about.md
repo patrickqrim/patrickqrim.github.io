@@ -24,3 +24,7 @@ I am also interested in recognition tasks, such as 3D object detection for appli
 [SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
 Yichen Xie, Chenfeng Xu, Marie-Julie Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
 *ICCV 2023*
+
+[CaltechFN: Distorted and Partially Occluded Digits](https://data.caltech.edu/records/33qmq-a2n15)  
+Patrick Rim, Snigdha Saha, Marcus Rim
+*ACCV 2022*
