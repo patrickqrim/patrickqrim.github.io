@@ -20,3 +20,7 @@ I am also interested in recognition tasks, such as 3D object detection for appli
 [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://vision.cs.yale.edu/)  
 **Patrick Rim**, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong  
 *CVPR 2025*
+
+[SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
+Yichen Xie, Chenfeng Xu, Marie-Julie Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
+*ICCV 2023*
