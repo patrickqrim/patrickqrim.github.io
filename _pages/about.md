@@ -26,5 +26,5 @@ Yichen Xie, Chenfeng Xu, Marie-Julie Rakotosaona, **Patrick Rim**, Federico Tomb
 *ICCV 2023*
 
 [Quadric Representations for LiDAR Odometry, Mapping and Localization](https://ieeexplore.ieee.org/document/10167749)  
-Chao Xia*, Chenfeng Xu*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
+Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
 *RA-L 2023*
