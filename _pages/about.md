@@ -10,6 +10,8 @@ redirect_from:
 
 I am a first-year CS Ph.D. student at Yale University in Prof. Alex Wong's [Yale Vision Laboratory](https://vision.cs.yale.edu/). Previously, I completed my B.S. in Computer Science with a minor in Information and Data Sciences at the California Institute of Technology (Caltech).
 
+I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He and Shoou-I Yu.
+
 ### Research Interests
 My research centers on advancing embodied AI with adaptive, efficient, robust ego-centric perception and multimodal capabilities (as in vision + range sensors, language, or audio).
 Within this broader goal, my current work focuses on sensor fusion—that is, combining inputs from cameras and range sensors (such as lidar or radar)—in challenging and dynamic settings.
