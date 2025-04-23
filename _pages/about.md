@@ -13,9 +13,9 @@ I am a first-year CS Ph.D. student at Yale University in Prof. Alex Wong's [Yale
 I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He and Shoou-I Yu.
 
 ### Research Interests
-My research centers on building embodied AI agents with adaptive, efficient, robust ego-centric perception and multimodal capabilities (as in vision + range sensors, language, or audio).
-Within this broader goal, my current work focuses on sensor fusion—that is, combining inputs from cameras and range sensors (such as lidar or radar)—in challenging and dynamic settings.
-I am also interested in recognition tasks, such as 3D object detection for applications like AR/VR and autonomous driving, and generation tasks, such as leveraging language priors for improved depth map generation with diffusion models.
+My research centers on building embodied AI agents with adaptive, efficient, robust egocentric perception and multimodal capabilities (as in vision + range sensors, language, or audio).
+Within this broader goal, my recent work focuses on sensor fusion—that is, combining inputs from cameras and range sensors (such as lidar or radar)—in challenging and dynamic settings.
+I am also interested in recognition tasks, such as 3D object detection for applications like AR/VR and autonomous driving, and generation tasks, such as text-conditional depth map generation with diffusion models. Currently, I am exploring in-the-wild egocentric motion capture (hand and body tracking).
 
 ## Publications
 
