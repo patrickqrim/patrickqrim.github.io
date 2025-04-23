@@ -17,7 +17,7 @@ My research centers on building embodied AI agents with adaptive, efficient, rob
 Within this broader goal, my recent work focuses on sensor fusion—that is, combining inputs from cameras and range sensors (such as lidar or radar)—in challenging and dynamic settings.
 I am also interested in recognition tasks, such as 3D object detection for applications like AR/VR and autonomous driving, and generation tasks, such as text-conditional depth map generation with diffusion models. Currently, I am exploring in-the-wild egocentric motion capture (hand and body tracking).
 
-## Publications
+## Recent Publications
 
 [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://protodepth.github.io/)  
 **Patrick Rim**, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong  
