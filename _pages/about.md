@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. student at Yale University in Prof. Alex Wong's [Yale Vision Laboratory](https://vision.cs.yale.edu/). Previously, I completed my B.S. in Computer Science with a minor in Information and Data Sciences at the California Institute of Technology ([Caltech](https://www.caltech.edu/)).
+I am a first-year CS Ph.D. student at Yale University in Prof. Alex Wong's [Yale Vision Laboratory](https://vision.cs.yale.edu/). Previously, I completed my B.S. in Computer Science with a minor in Information and Data Sciences at the [California Institute of Technology](https://www.caltech.edu/) (Caltech).
 
 I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He and Shoou-I Yu.
 
