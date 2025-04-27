@@ -5,90 +5,74 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ─────────────────────────  LOCAL STYLES  ───────────────────────── -->
 <style>
   /* publication wrapper */
   .pub-block{
     display:flex;
-    gap:1.5rem;               /* space between image & text  */
-    margin-bottom:2.5rem;     /* space between publications   */
-    align-items:flex-start;   /* top-align                    */
+    gap:1.5rem;
+    margin-bottom:2.5rem;
+    align-items:center;       /* ⬅ vertical-center image to text */
   }
-  /* image column = ~25 % */
-  .pub-block .pub-fig{
-    flex:0 0 25%;             /* don’t grow, don’t shrink, 25 % width */
+  .pub-fig{                   /* 25 % width image column  */
+    flex:0 0 25%;
     max-width:25%;
   }
-  .pub-block .pub-fig img{
+  .pub-fig img{
     width:100%;
     height:auto;
     display:block;
   }
-  /* text column = remaining width */
-  .pub-block .pub-text{
-    flex:1 1 0;               /* take the rest */
+  .pub-text{                 /* remaining width */
+    flex:1 1 0;
   }
-  .pub-block h3{
-    margin-top:0;
-    margin-bottom:.65rem;
+  .pub-text h3{
+    margin:.1rem 0 .55rem;
     font-size:1.15rem;
   }
-  .pub-block p{
-    margin:.2rem 0 .6rem;
+  /* tighten paragraph spacing */
+  .pub-text p{
+    margin:.15rem 0;          /* ⬅ nearly no gap between lines   */
     font-size:1.05rem;
     line-height:1.35;
   }
-  /* thin divider  */
   .pub-divider{
     border-top:1px solid #e1e1e1;
     margin:2rem 0;
   }
-  @media (max-width:640px){        /* on narrow phones stack nicely */
-    .pub-block{
-      flex-direction:column;
-    }
-    .pub-block .pub-fig,
-    .pub-block .pub-text{
-      max-width:100%;
-      flex:unset;
-    }
+  @media (max-width:640px){
+    .pub-block{flex-direction:column; align-items:flex-start;}
+    .pub-fig{max-width:100%; flex:unset;}
   }
 </style>
 
-<!-- ────────────────────────  PUBLICATION 1  ───────────────────────── -->
+<!-- Publication 1 -->
 <div class="pub-block">
   <div class="pub-fig">
-      <img src="{{ '/publication_images/main_figure_v3.png' | relative_url }}"
-           alt="ProtoDepth main figure">
+    <img src="{{ '/publication_images/main_figure_v3.png' | relative_url }}" alt="ProtoDepth main figure">
   </div>
-
   <div class="pub-text">
     <h3>
       <strong>ProtoDepth: Unsupervised Continual Depth Completion with Prototypes</strong>
       [&nbsp;<a href="https://arxiv.org/pdf/2503.12745" target="_blank">PDF</a>&nbsp;]
     </h3>
-
     <p><strong>Patrick Rim</strong>, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong</p>
-    <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p>
+    <p><em>IEEE/CVF&nbsp;Conference on Computer Vision and Pattern Recognition (CVPR)&nbsp;2025</em></p>
   </div>
 </div>
 
 <div class="pub-divider"></div>
 
-<!-- ────────────────────────  PUBLICATION 2  ───────────────────────── -->
+<!-- Publication 2 -->
 <div class="pub-block">
   <div class="pub-fig">
-      <img src="{{ '/publication_images/main_figure_v3.png' | relative_url }}"
-           alt="SparseFusion main figure">
+    <img src="{{ '/publication_images/main_figure_v3.png' | relative_url }}" alt="SparseFusion main figure">
   </div>
-
   <div class="pub-text">
     <h3>
       <strong>SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection</strong>
       [&nbsp;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_SparseFusion_Fusing_Multi-Modal_Sparse_Representations_for_Multi-Sensor_3D_Object_Detection_ICCV_2023_paper.pdf" target="_blank">PDF</a>&nbsp;]
     </h3>
-
     <p>Yichen Xie, Chenfeng Xu, MJ Rakotosaona, <strong>Patrick Rim</strong>, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan</p>
-    <p>IEEE/CVF International Conference on Computer Vision (ICCV) 2023</p>
+    <p><em>IEEE/CVF International Conference on Computer Vision (ICCV)&nbsp;2023</em></p>
   </div>
 </div>
