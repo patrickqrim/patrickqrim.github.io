@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "" 
-title_separator          : ""
+title                    : "Patrick Rim" 
+title_separator          : "-"
 name                     : &name "Yale University / Meta Reality Labs"
 description              : &description "AI Research @ Meta, Yale"
 url                      : https://patrickqrim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
