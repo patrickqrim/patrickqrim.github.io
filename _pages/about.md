@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Patrick Rim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
