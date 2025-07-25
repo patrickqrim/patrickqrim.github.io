@@ -28,15 +28,15 @@ Currently, I am exploring in-the-wild egocentric hand-object tracking to enable 
 *In submission*
 
 [ETA: Energy-based Test-time Adaptation for Depth Completion](https://protodepth.github.io/)  
-Younjoon Chung, Hyoungseob Park, **Patrick Rim**, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong
+Younjoon Chung, Hyoungseob Park, **Patrick Rim**, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
 *ICCV 2025*
 
 [AFFECT: Aligning Fisheye Features using Calibration Tokens for Monocular Depth Estimation](https://protodepth.github.io/)  
-S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong
+S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
 *ICCV 2025*
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://protodepth.github.io/)  
-Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi
+Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
 *In submission*
 
 [SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
