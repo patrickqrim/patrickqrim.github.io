@@ -25,7 +25,7 @@ Currently, I am exploring in-the-wild egocentric hand-object tracking to enable 
 
 [Radar-Guided Polynomial Fitting for Metric Depth Estimation](https://arxiv.org/abs/2503.17182)  
 **Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
-*In submission*
+*Under Review*
 
 [ETA: Energy-based Test-time Adaptation for Depth Completion](https://protodepth.github.io/)  
 Younjoon Chung, Hyoungseob Park, **Patrick Rim**, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
@@ -37,7 +37,7 @@ S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://protodepth.github.io/)  
 Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
-*In submission*
+*Under Review*
 
 [SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
 Yichen Xie, Chenfeng Xu, MJ Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
