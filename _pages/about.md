@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Ph.D. student at Yale University in Prof. Alex Wong's [Yale Vision Laboratory](https://vision.cs.yale.edu/). Previously, I completed my B.S. in Computer Science and Information/Data Sciences at the [California Institute of Technology](https://www.caltech.edu/) (Caltech).
+I am a first-year CS Ph.D. student at the [Yale Vision Lab](https://vision.cs.yale.edu/), advised by Prof. Alex Wong. Previously, I completed my B.S. in Computer Science and Information/Data Sciences at the [California Institute of Technology](https://www.caltech.edu/) (Caltech).
 
 I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He and Shoou-I Yu.
 
 ### Research Interests
 My research centers on building embodied AI agents with adaptive, efficient, robust egocentric perception and multimodal capabilities (as in vision + range sensors, language, or audio).
 Within this broader goal, my recent work focuses on sensor fusion—that is, combining inputs from cameras and range sensors (such as lidar or radar)—in challenging and dynamic settings.
-I am also interested in recognition tasks, such as 3D object detection for applications like AR/VR and autonomous driving, and generation tasks, such as text-conditional depth map generation with diffusion models. Currently, I am exploring in-the-wild egocentric motion capture (hand and body tracking).
+I am also interested in recognition tasks, such as 3D object detection for applications like AR/VR and autonomous driving, and generation tasks, such as text-conditional depth map generation with diffusion models. Currently, I am exploring in-the-wild egocentric motion capture (hand and body tracking) for embodied interaction and contextualized input.
 
 ## Recent Publications
 
