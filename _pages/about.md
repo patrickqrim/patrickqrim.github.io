@@ -14,7 +14,7 @@ I am also currently a Research Scientist Intern at [Meta Reality Labs](https://a
 
 ### What I Research and Why
 My work is centered on building superintelligent embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
-To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting the motion of deformable 3D Gaussian splats over time using latent ODEs), and **generation** (e.g., text-conditional depth map generation with diffusion models).
+To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting dynamic scenes by learning latent ODEs that temporally extrapolate deformable 3D Gaussian splats), and **generation** (e.g., text-conditional depth map generation with diffusion models).
 Currently, I am exploring in-the-wild egocentric hand-object tracking to enable contextualized input in unconstrained real-world environments.
 
 ## Recent Publications
