@@ -35,7 +35,7 @@ Younjoon Chung, Hyoungseob Park, **Patrick Rim**, Xiaoran Zhang, Jihe He, Ziyao 
 S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
 *ICCV 2025*
 
-[ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://protodepth.github.io/)  
+[ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://arxiv.org/abs/2506.05480)  
 Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
 *Under Review*
 
