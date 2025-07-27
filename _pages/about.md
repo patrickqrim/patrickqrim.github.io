@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year Ph.D. student at the [Yale Vision Lab](https://vision.cs.yale.edu/) researching 3D Vision for AI, advised by Prof. Alex Wong. Previously, I completed my B.S. in Computer Science and Information/Data Sciences at the [California Institute of Technology](https://www.caltech.edu/) (Caltech).
 
-I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He to build something completely new and exciting!
+I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He to build something new and ambitious! 🚀
 
 ### What I Research and Why
 My work is centered on building superintelligent embodied AI agents with adaptive, efficient, robust egocentric perception, as well as multimodal capabilities spanning vision, range sensing, language, and audio.
