@@ -13,7 +13,7 @@ I am a first-year Ph.D. student at the [Yale Vision Lab](https://vision.cs.yale.
 I am also currently a Research Scientist Intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on the Extended Reality (XR) team with Kun He to build something new and ambitious! 🚀
 
 ### What I Research and Why
-My work is centered on building superintelligent embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
+My work is centered on building embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
 To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting dynamic scenes by learning latent ODEs that temporally extrapolate deformable 3D Gaussian splats), and **generation** (e.g., text-conditional depth map generation with diffusion models).
 Currently, I am exploring in-the-wild egocentric hand-object tracking to enable contextualized input in unconstrained real-world environments.
 
