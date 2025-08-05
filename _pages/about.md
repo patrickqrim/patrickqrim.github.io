@@ -49,5 +49,5 @@ Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keu
 
 <div style="display: inline-block; text-align: center;">
   <div style="border-top: 1px solid #ccc; width: 100%; margin-bottom: 4px;"></div>
-  <small>* denotes Equal Contribution</small>
+  \* denotes Equal Contribution
 </div>
