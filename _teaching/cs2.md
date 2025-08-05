@@ -1,9 +1,8 @@
 ---
-title: "Data Structures (CS 2)"
+title: "Data Structures (CS 2) at Caltech"
 collection: teaching
 type: "Head of Online, TA"
 permalink: /teaching/cs2
-venue: "Caltech"
 date: 2021-12-01
 location: ""
 ---
