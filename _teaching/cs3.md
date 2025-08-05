@@ -1,7 +1,7 @@
 ---
 title: "Software Design (CS 3), at Caltech"
 collection: teaching
-type: "Head of Online, TA"
+type: "Head TA – Online"
 permalink: /teaching/cs3
 date: 2022-03-01
 location: ""
