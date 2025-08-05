@@ -47,4 +47,4 @@ Yichen Xie, Chenfeng Xu, MJ Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt
 Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
 *RA-L 2023*
 
-(\* denotes Equal Contribution)
+<small>\* denotes Equal Contribution</small>
