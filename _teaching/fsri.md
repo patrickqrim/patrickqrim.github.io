@@ -1,9 +1,8 @@
 ---
-title: "First-Year Success Research Institute"
+title: "First-Year Success Research Institute, at Caltech"
 collection: teaching
 type: "Head TA"
 permalink: /teaching/fsri
-venue: "Caltech"
 date: 2022-07-01
 location: ""
 ---
