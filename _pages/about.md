@@ -31,7 +31,7 @@ Currently, I am exploring in-the-wild egocentric hand-object tracking to enable 
 Younjoon Chung\*, Hyoungseob Park\*, **Patrick Rim\***, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
 *ICCV 2025*
 
-[AFFECT: Aligning Fisheye Features using Calibration Tokens for Monocular Depth Estimation](https://protodepth.github.io/)  
+[Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://protodepth.github.io/)  
 S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
 *ICCV 2025*
 
