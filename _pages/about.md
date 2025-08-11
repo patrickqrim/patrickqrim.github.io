@@ -27,11 +27,11 @@ Currently, I am exploring in-the-wild egocentric hand-object tracking to enable 
 **Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
 *Under Review*
 
-[ETA: Energy-based Test-time Adaptation for Depth Completion](https://protodepth.github.io/)  
+[ETA: Energy-based Test-time Adaptation for Depth Completion](https://arxiv.org/abs/2508.05989)  
 Younjoon Chung\*, Hyoungseob Park\*, **Patrick Rim\***, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
 *ICCV 2025*
 
-[Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://protodepth.github.io/)  
+[Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://www.arxiv.org/abs/2508.04928)  
 S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
 *ICCV 2025*
 
