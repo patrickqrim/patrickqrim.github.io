@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2024 – \[Expected\] 2028) at the <span style="color:#0f4d92;">Yale Vision Lab</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science and Information/Data Sciences at <span style="color:#FF6C0C;">Caltech</span>. Previously, I was a Research Scientist Intern at <span style="color:#0064e0;">Meta Reality Labs</span>, creating SHOW3D for in-the-wild hand-object pose estimation.
+I am a Ph.D. student (2024 – \[Expected\] 2028) at the <span style="color:#0f4d92;">Yale Vision Lab</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#FF6C0C;">Caltech</span>. Previously, I was a Research Scientist Intern at <span style="color:#0064e0;">Meta Reality Labs</span>, building SHOW3D for in-the-wild hand-object pose estimation.
 
 Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA</span> in Santa Clara, exploring world models and egocentric perception! 🚀
 
