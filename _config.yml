@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Patrick Rim" 
 title_separator          : "-"
-name                     : &name "Yale University / Meta Reality Labs"
-description              : &description "AI Research @ Meta, Yale"
+name                     : &name "Yale University / NVIDIA"
+description              : &description "AI Research @ NVIDIA, Meta, Yale"
 url                      : https://patrickqrim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrickqrim/patrickqrim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Currently..."
   avatar           : "profile_2025_cropped.jpg"
-  bio              : "AI Research at Meta<br>PhD Candidate at Yale"
+  bio              : "AI Research at NVIDIA<br>PhD Candidate at Yale<br>Prev. at Meta, Squarepoint"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
