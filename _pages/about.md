@@ -15,7 +15,6 @@ Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA</span>,
 ### What I Research and Why
 My work is centered on building embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
 To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting dynamic scenes by learning latent ODEs that temporally extrapolate deformable 3D Gaussian splats), and **generation** (e.g., text-conditional depth map generation with diffusion models).
-Currently, I am exploring in-the-wild egocentric hand-object tracking to enable contextualized input in unconstrained real-world environments.
 
 ## Recent Publications
 
