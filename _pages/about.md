@@ -31,7 +31,7 @@ Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi
 *ICLR 2026*
 
 [Unsupervised Depth Completion via Occluded Region Completion as Supervision](https://arxiv.org/abs/2506.05480)  
-Hyoungseob Park, Runjian Chen, **Patrick Rim**, Dong Lao, Alex Wong
+Hyoungseob Park, Runjian Chen, **Patrick Rim**, Dong Lao, Alex Wong  
 *ICLR 2026*
 
 [Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://www.arxiv.org/abs/2508.04928)  
