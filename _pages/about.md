@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student (2024 – \[Expected\] 2028) at the <span style="color:#0f4d92;">Yale Vision Lab</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#FF6C0C;">Caltech</span>. Previously, I was a Research Scientist Intern at <span style="color:#0064e0;">Meta Reality Labs</span>, building SHOW3D for in-the-wild 3D hand-object pose estimation.
 
-Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA</span> in Santa Clara, exploring world models and egocentric perception! 🚀
+Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA Research</span> in Santa Clara, exploring world models and egocentric perception! 🚀
 
 ### What I Research and Why
 My work is centered on building embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
