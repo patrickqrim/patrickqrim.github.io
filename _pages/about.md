@@ -27,7 +27,7 @@ To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object
 *CVPR 2026*
 
 [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](https://arxiv.org/abs/2411.16750)  
-Ziyao Zeng, Jingcheng Ni, Daniel Wang, **Patrick Rim**, Younjoon Chung, Fengyu Yang, Byung-Woo Hong, Alex Wong
+Ziyao Zeng, Jingcheng Ni, Daniel Wang, **Patrick Rim**, Younjoon Chung, Fengyu Yang, Byung-Woo Hong, Alex Wong  
 *CVPR 2026*
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://arxiv.org/abs/2506.05480)  
