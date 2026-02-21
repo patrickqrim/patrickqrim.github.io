@@ -18,13 +18,17 @@ To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object
 
 ## Recent Publications
 
-[ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://protodepth.github.io/)  
-**Patrick Rim**, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong  
-*CVPR 2025*
+[SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
+**Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
+*CVPR 2026*
 
-[ETA: Energy-based Test-time Adaptation for Depth Completion](https://arxiv.org/abs/2508.05989)  
-Younjoon Chung\*, Hyoungseob Park\*, **Patrick Rim\***, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
-*ICCV 2025*
+[Radar-Guided Polynomial Fitting for Metric Depth Estimation](https://arxiv.org/abs/2503.17182)  
+**Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
+*CVPR 2026*
+
+[Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](https://arxiv.org/abs/2411.16750)  
+Ziyao Zeng, Jingcheng Ni, Daniel Wang, **Patrick Rim**, Younjoon Chung, Fengyu Yang, Byung-Woo Hong, Alex Wong
+*CVPR 2026*
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://arxiv.org/abs/2506.05480)  
 Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
@@ -34,13 +38,17 @@ Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi
 Hyoungseob Park, Runjian Chen, **Patrick Rim**, Dong Lao, Alex Wong  
 *ICLR 2026*
 
+[ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://protodepth.github.io/)  
+**Patrick Rim**, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong  
+*CVPR 2025*
+
+[ETA: Energy-based Test-time Adaptation for Depth Completion](https://arxiv.org/abs/2508.05989)  
+Younjoon Chung\*, Hyoungseob Park\*, **Patrick Rim\***, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
+*ICCV 2025*
+
 [Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://www.arxiv.org/abs/2508.04928)  
 S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
 *ICCV 2025*
-
-[Radar-Guided Polynomial Fitting for Metric Depth Estimation](https://arxiv.org/abs/2503.17182)  
-**Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
-*Under Review*
 
 [SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
 Yichen Xie, Chenfeng Xu, MJ Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
