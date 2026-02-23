@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2024 – \[Expected\] 2028) at the <span style="color:#0f4d92;">Yale Vision Lab</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#FF6C0C;">Caltech</span>. Previously, I was a Research Scientist Intern at <span style="color:#0064e0;">Meta Reality Labs</span>, building SHOW3D for in-the-wild 3D hand-object pose estimation.
+I am a Ph.D. student (2024 – \[Expected\] 2028) at the <span style="color:#0f4d92;">Yale Vision Lab</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#FF6C0C;">Caltech</span>. Previously, I was a Research Scientist Intern at Meta Reality Labs, building SHOW3D for in-the-wild 3D hand-object pose estimation.
 
 Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA Research</span> in Santa Clara, exploring world models and egocentric perception! 🚀
 
@@ -20,7 +20,7 @@ To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object
 
 [SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
-*CVPR 2026*
+<span style="color:#A51C30;">*CVPR 2026*</span>
 
 [Radar-Guided Polynomial Fitting for Metric Depth Estimation](https://arxiv.org/abs/2503.17182)  
 **Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
