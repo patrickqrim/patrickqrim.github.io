@@ -57,7 +57,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-yale.svg" alt="Yale University">
-    <div class="exp-dates">2024 – [Expected] 2028</div>
+    <div class="exp-dates">2024 – Expected 2028</div>
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
@@ -80,6 +80,8 @@ redirect_from:
   </div>
 </div>
 
+<hr style="border:none;border-top:1px solid #e1e1e1;margin:0.5rem 0 1.1rem;">
+
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-google.svg" alt="Google">
@@ -88,7 +90,7 @@ redirect_from:
   <div class="exp-text">
     <strong>Google</strong> · Research Intern
     <ul>
-      <li>Focusing on real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, combining learned visual place recognition for loop closure with open-vocabulary semantic distillation from Gemini for AR/VR and robotics.</li>
+      <li>Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM with open-vocabulary semantic distillation from Gemini for AR/VR and robotics.</li>
     </ul>
   </div>
 </div>
@@ -101,8 +103,7 @@ redirect_from:
   <div class="exp-text">
     <strong>NVIDIA Research</strong> · Research Scientist Intern
     <ul>
-      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs.</li>
-      <li>Showed that decomposing spatial reasoning via chained SFT-CoT and RLVR improves spatial intelligence. Submitted to NeurIPS 2026.</li>
+      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Showed that decomposing spatial reasoning via chained SFT-CoT and RLVR improves spatial intelligence.</li>
     </ul>
   </div>
 </div>
@@ -115,15 +116,15 @@ redirect_from:
   <div class="exp-text">
     <strong>Meta Reality Labs</strong> · Research Scientist Intern
     <ul>
-      <li>Led the creation of SHOW3D, the first in-the-wild 3D hand-object interaction dataset (4.6M egocentric frames).</li>
-      <li>Lead author of CVPR 2026 paper on mobile capture system, 3D hand and object pose estimation pipelines, and applications to robotics and teleoperation.</li>
+      <li>Led the creation of SHOW3D, the first ever hand-object interaction dataset captured in the wild. The most valuable 4.6 million frames of egocentric data ever captured, open-sourced for the community!</li>
     </ul>
   </div>
 </div>
 
-### What I Research and Why
-My work is centered on building embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
-To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting dynamic scenes by learning latent ODEs that temporally extrapolate deformable 3D Gaussian splats), and **generation** (e.g., text-conditional depth map generation with diffusion models).
+My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and range sensing.
+
+What coding agents did for white-collar workflows, physical AI will do for the physical world.
+
 
 ## Recent Publications
 
