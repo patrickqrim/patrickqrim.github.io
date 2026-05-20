@@ -54,16 +54,13 @@ redirect_from:
 }
 </style>
 
-I am a Ph.D. student (2024 – \[Expected\] 2028) at <span style="color:#0f4d92;">Yale University</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#CC5500;">Caltech</span>.
-
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-google.svg" alt="Google">
     <div class="exp-dates">May 2026 – Present</div>
   </div>
   <div class="exp-text">
-    <strong>Google</strong> · Research Intern<br>
-    <span style="font-size:0.85rem;color:#666;">Mentors: Verse Zhou, Federico Tombari</span><br>
+    <strong>Google</strong> · Research Intern
     <ul>
       <li>Focusing on real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, combining learned visual place recognition for loop closure with open-vocabulary semantic distillation from Gemini for AR/VR and robotics.</li>
     </ul>
@@ -76,8 +73,7 @@ I am a Ph.D. student (2024 – \[Expected\] 2028) at <span style="color:#0f4d92;
     <div class="exp-dates">Feb 2026 – May 2026</div>
   </div>
   <div class="exp-text">
-    <strong>NVIDIA Research</strong> · Research Scientist Intern<br>
-    <span style="font-size:0.85rem;color:#666;">Mentors: Jaehyun Jung, Joohwan Kim</span>
+    <strong>NVIDIA Research</strong> · Research Scientist Intern
     <ul>
       <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs.</li>
       <li>Showed that decomposing spatial reasoning via chained SFT-CoT and RLVR improves spatial intelligence. Submitted to NeurIPS 2026.</li>
@@ -91,12 +87,34 @@ I am a Ph.D. student (2024 – \[Expected\] 2028) at <span style="color:#0f4d92;
     <div class="exp-dates">May 2025 – Jan 2026</div>
   </div>
   <div class="exp-text">
-    <strong>Meta Reality Labs</strong> · Research Scientist Intern<br>
-    <span style="font-size:0.85rem;color:#666;">Mentors: Kun He, Tomas Hodan</span>
+    <strong>Meta Reality Labs</strong> · Research Scientist Intern
     <ul>
       <li>Led the creation of SHOW3D, the first in-the-wild 3D hand-object interaction dataset (4.6M egocentric frames).</li>
       <li>Lead author of CVPR 2026 paper on mobile capture system, 3D hand and object pose estimation pipelines, and applications to robotics and teleoperation.</li>
     </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/yale-cropped.svg" alt="Yale University">
+    <div class="exp-dates">2024 – Expected 2028</div>
+  </div>
+  <div class="exp-text">
+    <strong>Yale University</strong> · Ph.D., Computer Science
+    <ul>
+      <li>Researching 3D vision and multimodal AI systems, advised by Alex Wong.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-caltech.svg" alt="Caltech">
+    <div class="exp-dates">2020 – 2024</div>
+  </div>
+  <div class="exp-text">
+    <strong>Caltech</strong> · B.S., Computer Science &amp; Information/Data Sciences
   </div>
 </div>
 
@@ -106,7 +124,7 @@ To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object
 
 ## Recent Publications
 
-<div class="home-pubs">
+<div class="home-pubs" markdown="1">
 
 [SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
