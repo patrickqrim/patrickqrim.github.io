@@ -7,15 +7,106 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2024 – \[Expected\] 2028) at <span style="color:#0f4d92;">Yale University</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#CC5500;">Caltech</span> (California Institute of Technology). Previously, I was a Research Scientist Intern at Meta Reality Labs, building SHOW3D for in-the-wild 3D hand-object pose estimation.
+<style>
+.exp-block {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 1.4rem;
+  align-items: flex-start;
+}
+.exp-logo {
+  flex: 0 0 17%;
+  max-width: 17%;
+  text-align: center;
+  padding-top: 0.15rem;
+}
+.exp-logo img {
+  width: 100%;
+  height: auto;
+  max-height: 38px;
+  object-fit: contain;
+}
+.exp-dates {
+  font-size: 0.72rem;
+  color: #777;
+  margin-top: 0.3rem;
+  line-height: 1.3;
+}
+.exp-text {
+  flex: 1 1 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.exp-text ul {
+  margin: 0.2rem 0 0 0;
+  padding-left: 1.1rem;
+}
+.exp-text li {
+  margin-bottom: 0.15rem;
+}
+.home-pubs p > a:first-child {
+  font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
+  font-weight: 700;
+}
+@media (max-width: 640px) {
+  .exp-block { flex-direction: column; }
+  .exp-logo { max-width: 40%; flex: unset; }
+}
+</style>
 
-Currently, I am a Research Intern at <span style="color:#76b900;">NVIDIA Research</span> in Santa Clara, exploring world models and egocentric perception! 🚀
+I am a Ph.D. student (2024 – \[Expected\] 2028) at <span style="color:#0f4d92;">Yale University</span> researching 3D vision and multimodal AI systems. I completed my B.S. in Computer Science &amp; Information/Data Sciences at <span style="color:#CC5500;">Caltech</span>.
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-google.svg" alt="Google">
+    <div class="exp-dates">May 2026 – Present</div>
+  </div>
+  <div class="exp-text">
+    <strong>Google</strong> · Research Intern<br>
+    <span style="font-size:0.85rem;color:#666;">Mentors: Verse Zhou, Federico Tombari</span><br>
+    <ul>
+      <li>Focusing on real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, combining learned visual place recognition for loop closure with open-vocabulary semantic distillation from Gemini for AR/VR and robotics.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-nvidia.svg" alt="NVIDIA">
+    <div class="exp-dates">Feb 2026 – May 2026</div>
+  </div>
+  <div class="exp-text">
+    <strong>NVIDIA Research</strong> · Research Scientist Intern<br>
+    <span style="font-size:0.85rem;color:#666;">Mentors: Jaehyun Jung, Joohwan Kim</span>
+    <ul>
+      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs.</li>
+      <li>Showed that decomposing spatial reasoning via chained SFT-CoT and RLVR improves spatial intelligence. Submitted to NeurIPS 2026.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-meta.svg" alt="Meta Reality Labs">
+    <div class="exp-dates">May 2025 – Jan 2026</div>
+  </div>
+  <div class="exp-text">
+    <strong>Meta Reality Labs</strong> · Research Scientist Intern<br>
+    <span style="font-size:0.85rem;color:#666;">Mentors: Kun He, Tomas Hodan</span>
+    <ul>
+      <li>Led the creation of SHOW3D, the first in-the-wild 3D hand-object interaction dataset (4.6M egocentric frames).</li>
+      <li>Lead author of CVPR 2026 paper on mobile capture system, 3D hand and object pose estimation pipelines, and applications to robotics and teleoperation.</li>
+    </ul>
+  </div>
+</div>
 
 ### What I Research and Why
 My work is centered on building embodied AI agents with adaptive, efficient, and robust perception, as well as multimodal capabilities spanning vision, language, and range sensing.
 To that end, I develop methods for **recognition** (e.g., multi-sensor 3D object detection in autonomous driving and AR/VR settings), **reconstruction** (e.g., forecasting dynamic scenes by learning latent ODEs that temporally extrapolate deformable 3D Gaussian splats), and **generation** (e.g., text-conditional depth map generation with diffusion models).
 
 ## Recent Publications
+
+<div class="home-pubs">
 
 [SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
@@ -56,6 +147,8 @@ Yichen Xie, Chenfeng Xu, MJ Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt
 [Quadric Representations for LiDAR Odometry, Mapping and Localization](https://ieeexplore.ieee.org/document/10167749)  
 Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
 <span style="color:#A51C30;">*RA-L 2023*</span>
+
+</div>
 
 <div style="display: inline-block; text-align: center;">
   <div style="border-top: 1px solid #ccc; width: 100%; margin-bottom: 4px;"></div>
