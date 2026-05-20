@@ -54,7 +54,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
-    <p style="margin:0.2rem 0 0 0;">Researching 3D vision and multimodal AI systems at Yale Vision Lab.</p>
+    <p style="margin:0.2rem 0 0 0;">Researching 3D computer vision and multimodal AI systems at Yale Vision Lab.</p>
   </div>
 </div>
 
