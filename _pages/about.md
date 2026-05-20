@@ -56,6 +56,32 @@ redirect_from:
 
 <div class="exp-block">
   <div class="exp-logo">
+    <img src="/images/logo-yale.svg" alt="Yale University">
+    <div class="exp-dates">2024 – [Expected] 2028</div>
+  </div>
+  <div class="exp-text">
+    <strong>Yale University</strong> · Ph.D., Computer Science
+    <ul>
+      <li>Researching 3D vision and multimodal AI systems at Yale Vision Lab.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-caltech.svg" alt="Caltech">
+    <div class="exp-dates">2020 – 2024</div>
+  </div>
+  <div class="exp-text">
+    <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
+    <ul>
+      <li>Awarded in recognition of the Best Academic Record in Computer Science.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
     <img src="/images/logo-google.svg" alt="Google">
     <div class="exp-dates">May 2026 – Present</div>
   </div>
@@ -92,29 +118,6 @@ redirect_from:
       <li>Led the creation of SHOW3D, the first in-the-wild 3D hand-object interaction dataset (4.6M egocentric frames).</li>
       <li>Lead author of CVPR 2026 paper on mobile capture system, 3D hand and object pose estimation pipelines, and applications to robotics and teleoperation.</li>
     </ul>
-  </div>
-</div>
-
-<div class="exp-block">
-  <div class="exp-logo">
-    <img src="/images/yale-cropped.svg" alt="Yale University">
-    <div class="exp-dates">2024 – Expected 2028</div>
-  </div>
-  <div class="exp-text">
-    <strong>Yale University</strong> · Ph.D., Computer Science
-    <ul>
-      <li>Researching 3D vision and multimodal AI systems, advised by Alex Wong.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="exp-block">
-  <div class="exp-logo">
-    <img src="/images/logo-caltech.svg" alt="Caltech">
-    <div class="exp-dates">2020 – 2024</div>
-  </div>
-  <div class="exp-text">
-    <strong>Caltech</strong> · B.S., Computer Science &amp; Information/Data Sciences
   </div>
 </div>
 
