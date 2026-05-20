@@ -94,7 +94,7 @@ redirect_from:
     </ul>
   </div>
 </div>
-22
+
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-nvidia.svg" alt="NVIDIA">
