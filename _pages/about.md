@@ -90,11 +90,11 @@ redirect_from:
   <div class="exp-text">
     <strong>Google</strong> · Research Intern
     <ul>
-      <li>Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM with open-vocabulary semantic distillation from Gemini for AR/VR and robotics.</li>
+      <li>Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, integrating open-vocabulary semantic distillation from Gemini to power robotic manipulation, navigation, and AR/VR applications.</li>
     </ul>
   </div>
 </div>
-
+22
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-nvidia.svg" alt="NVIDIA">
@@ -103,7 +103,7 @@ redirect_from:
   <div class="exp-text">
     <strong>NVIDIA Research</strong> · Research Scientist Intern
     <ul>
-      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Showed that decomposing spatial reasoning via chained SFT-CoT and RLVR improves spatial intelligence.</li>
+      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Post-training on Spatial-IQ via chained SFT-CoT and RLVR improves spatial intelligence.</li>
     </ul>
   </div>
 </div>
@@ -120,6 +120,9 @@ redirect_from:
     </ul>
   </div>
 </div>
+
+
+### What I Research and Why
 
 My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and range sensing.
 
