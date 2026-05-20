@@ -69,7 +69,7 @@ redirect_from:
 
 <div class="exp-block">
   <div class="exp-logo">
-    <img src="/images/logo-caltech.svg" alt="Caltech">
+    <img src="/images/logo-caltech.svg" alt="Caltech" style="max-height:30px;">
     <div class="exp-dates">2020 – 2024</div>
   </div>
   <div class="exp-text">
