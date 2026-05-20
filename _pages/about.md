@@ -50,7 +50,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-yale.svg" alt="Yale University">
-    <div class="exp-dates">2024 – Expected 2028</div>
+    <div class="exp-dates">2024 – 2028</div>
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
