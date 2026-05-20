@@ -37,13 +37,6 @@ redirect_from:
   font-size: 0.95rem;
   line-height: 1.5;
 }
-.exp-text ul {
-  margin: 0.2rem 0 0 0;
-  padding-left: 1.1rem;
-}
-.exp-text li {
-  margin-bottom: 0.15rem;
-}
 .home-pubs p > a:first-child {
   font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
   font-weight: 700;
@@ -61,9 +54,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
-    <ul>
-      <li>Researching 3D vision and multimodal AI systems at Yale Vision Lab.</li>
-    </ul>
+    <p style="margin:0.2rem 0 0 0;">Researching 3D vision and multimodal AI systems at Yale Vision Lab.</p>
   </div>
 </div>
 
@@ -74,9 +65,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
-    <ul>
-      <li>Awarded in recognition of the Best Academic Record in Computer Science.</li>
-    </ul>
+    <p style="margin:0.2rem 0 0 0;">Awarded in recognition of the Best Academic Record in Computer Science.</p>
   </div>
 </div>
 
@@ -89,9 +78,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>Google</strong> · Research Intern
-    <ul>
-      <li>Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, integrating open-vocabulary semantic distillation from Gemini to power robotic manipulation, navigation, and AR/VR applications.</li>
-    </ul>
+    <p style="margin:0.2rem 0 0 0;">Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, integrating open-vocabulary semantic distillation from Gemini to power robotic manipulation, navigation, and AR/VR applications.</p>
   </div>
 </div>
 
@@ -102,9 +89,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>NVIDIA Research</strong> · Research Scientist Intern
-    <ul>
-      <li>Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Post-training on Spatial-IQ via chained SFT-CoT and RLVR improves spatial intelligence.</li>
-    </ul>
+    <p style="margin:0.2rem 0 0 0;">Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Post-training on Spatial-IQ via chained SFT-CoT and RLVR improves spatial intelligence.</p>
   </div>
 </div>
 
@@ -115,9 +100,7 @@ redirect_from:
   </div>
   <div class="exp-text">
     <strong>Meta Reality Labs</strong> · Research Scientist Intern
-    <ul>
-      <li>Led the creation of SHOW3D, the first ever hand-object interaction dataset captured in the wild. The most valuable 4.6 million frames of egocentric data ever captured, open-sourced for the community!</li>
-    </ul>
+    <p style="margin:0.2rem 0 0 0;">Led the creation of SHOW3D, the first ever hand-object interaction dataset captured in the wild. The most valuable 4.6 million frames of egocentric data ever captured, open-sourced for the community!</p>
   </div>
 </div>
 
