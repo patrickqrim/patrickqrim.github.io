@@ -76,14 +76,6 @@ redirect_from:
   font-family: "Avenir Next Medium", "Avenir Next", "Avenir", "Century Gothic", sans-serif;
   font-weight: 500;
 }
-.home-pubs {
-  font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
-  font-weight: 400;
-}
-.home-pubs strong {
-  font-family: "Avenir Next Demi", "Avenir Next", "Avenir", "Century Gothic", sans-serif;
-  font-weight: 600;
-}
 .home-pubs .venue {
   font-family: inherit;
   font-style: normal;
