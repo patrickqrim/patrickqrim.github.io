@@ -61,27 +61,13 @@ redirect_from:
   animation: section-flare-dance 5.5s ease-in-out infinite;
 }
 .home-section__flare::after {
-  content: "";
-  position: absolute;
-  top: -5px;
-  left: 50%;
-  width: 10px;
-  height: 10px;
-  transform: translateX(-50%) scale(0);
-  border-radius: 50%;
-  background: #d6a84f;
-  box-shadow:
-    -18px 1px 0 -3px #6f8fa8,
-    18px -1px 0 -3px #7aa886,
-    -31px -2px 0 -4px #d6a84f,
-    31px 2px 0 -4px #6f8fa8;
-  opacity: 0;
+  content: none;
 }
 .home-section.is-sparked .home-section__flare {
-  animation: section-line-breathe 7s ease-in-out infinite, section-line-spark 850ms ease-out;
+  animation: section-line-breathe 7s ease-in-out infinite, section-line-intensify 850ms ease-out;
 }
-.home-section.is-sparked .home-section__flare::after {
-  animation: section-flare-pop 700ms ease-out;
+.home-section.is-sparked .home-section__flare::before {
+  animation: section-flare-dance 5.5s ease-in-out infinite, section-stream-intensify 850ms ease-out;
 }
 .home-section h2 {
   font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
@@ -103,20 +89,18 @@ redirect_from:
   45% { background-position: 100% 50%; opacity: 0.82; }
   70% { background-position: 55% 50%; opacity: 0.62; }
 }
-@keyframes section-line-spark {
+@keyframes section-line-intensify {
   0%, 100% { box-shadow: none; filter: saturate(1); }
-  35% { box-shadow: 0 0 12px rgba(214,168,79,0.42), 0 0 24px rgba(85,125,155,0.24); filter: saturate(1.35); }
+  38% { box-shadow: 0 0 10px rgba(85,125,155,0.2), 0 0 18px rgba(214,168,79,0.18); filter: saturate(1.45); }
 }
-@keyframes section-flare-pop {
-  0%, 100% { opacity: 0; transform: translateX(-50%) scale(0); }
-  32% { opacity: 0.95; transform: translateX(-50%) scale(1.15); }
-  70% { opacity: 0.28; transform: translateX(-50%) scale(0.65); }
+@keyframes section-stream-intensify {
+  0%, 100% { opacity: 0.75; }
+  38% { opacity: 1; }
 }
 @media (prefers-reduced-motion: reduce) {
   .home-section__flare,
   .home-section__flare::before,
-  .home-section.is-sparked .home-section__flare::before,
-  .home-section.is-sparked .home-section__flare::after {
+  .home-section.is-sparked .home-section__flare::before {
     animation: none;
   }
 }
