@@ -73,8 +73,8 @@ redirect_from:
   font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
 }
 .home-pubs p > a:first-child {
-  font-family: inherit;
-  font-weight: 400;
+  font-family: "Avenir Next Medium", "Avenir Next", "Avenir", "Century Gothic", sans-serif;
+  font-weight: 500;
 }
 .home-pubs .venue {
   font-family: inherit;
