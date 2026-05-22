@@ -64,10 +64,10 @@ redirect_from:
   content: none;
 }
 .home-section.is-sparked .home-section__flare {
-  animation: section-line-breathe 7s ease-in-out infinite, section-line-intensify 850ms ease-out;
+  animation: section-line-breathe 7s ease-in-out infinite, section-line-intensify 1500ms ease-out;
 }
 .home-section.is-sparked .home-section__flare::before {
-  animation: section-flare-dance 5.5s ease-in-out infinite, section-stream-intensify 850ms ease-out;
+  animation: section-flare-dance 5.5s ease-in-out infinite, section-stream-intensify 1500ms ease-out;
 }
 .home-section h2 {
   font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
@@ -91,11 +91,14 @@ redirect_from:
 }
 @keyframes section-line-intensify {
   0%, 100% { box-shadow: none; filter: saturate(1); }
-  38% { box-shadow: 0 0 10px rgba(85,125,155,0.2), 0 0 18px rgba(214,168,79,0.18); filter: saturate(1.45); }
+  28%, 62% {
+    box-shadow: 0 0 14px rgba(85,125,155,0.34), 0 0 30px rgba(214,168,79,0.32);
+    filter: saturate(1.9) brightness(1.08);
+  }
 }
 @keyframes section-stream-intensify {
   0%, 100% { opacity: 0.75; }
-  38% { opacity: 1; }
+  28%, 62% { opacity: 1; }
 }
 @media (prefers-reduced-motion: reduce) {
   .home-section__flare,
