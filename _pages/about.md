@@ -78,7 +78,14 @@ redirect_from:
 }
 .home-pubs .venue {
   font-family: inherit;
+  font-style: normal;
+  background: linear-gradient(90deg, #557d9b 0%, #b28a3e 42%, #6d987b 68%, #557d9b 100%);
+  background-size: 240% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
   color: #557d9b;
+  -webkit-text-fill-color: transparent;
+  animation: venue-color-wave 5.5s ease-in-out infinite;
 }
 @keyframes section-line-breathe {
   0%, 100% { background-position: 0% 50%; }
@@ -100,10 +107,18 @@ redirect_from:
   0%, 100% { opacity: 0.75; }
   28%, 62% { opacity: 1; }
 }
+@keyframes venue-color-wave {
+  0%, 100% { background-position: 0% 50%; }
+  45% { background-position: 100% 50%; }
+  70% { background-position: 55% 50%; }
+}
 @media (prefers-reduced-motion: reduce) {
   .home-section__flare,
   .home-section__flare::before,
   .home-section.is-sparked .home-section__flare::before {
+    animation: none;
+  }
+  .home-pubs .venue {
     animation: none;
   }
 }
@@ -195,43 +210,43 @@ What coding agents did for white-collar workflows, physical AI will do for all o
 
 [SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
-<span class="venue"><em>CVPR 2026</em></span>
+<span class="venue">CVPR 2026</span>
 
 [Radar-Guided Polynomial Fitting for Metric Depth Estimation](https://arxiv.org/abs/2503.17182)  
 **Patrick Rim**, Hyoungseob Park, Vadim Ezhov, Jeffrey Moon, Alex Wong  
-<span class="venue"><em>CVPR 2026</em></span>
+<span class="venue">CVPR 2026</span>
 
 [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](https://arxiv.org/abs/2411.16750)  
 Ziyao Zeng, Jingcheng Ni, Daniel Wang, **Patrick Rim**, Younjoon Chung, Fengyu Yang, Byung-Woo Hong, Alex Wong  
-<span class="venue"><em>CVPR 2026</em></span>
+<span class="venue">CVPR 2026</span>
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://arxiv.org/abs/2506.05480)  
 Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
-<span class="venue"><em>ICLR 2026</em></span>
+<span class="venue">ICLR 2026</span>
 
 [Unsupervised Depth Completion via Occluded Region Completion as Supervision](https://arxiv.org/abs/2506.05480)  
 Hyoungseob Park, Runjian Chen, **Patrick Rim**, Dong Lao, Alex Wong  
-<span class="venue"><em>ICLR 2026</em></span>
+<span class="venue">ICLR 2026</span>
 
 [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://protodepth.github.io/)  
 **Patrick Rim**, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong  
-<span class="venue"><em>CVPR 2025</em></span>
+<span class="venue">CVPR 2025</span>
 
 [ETA: Energy-based Test-time Adaptation for Depth Completion](https://arxiv.org/abs/2508.05989)  
 Younjoon Chung\*, Hyoungseob Park\*, **Patrick Rim\***, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong  
-<span class="venue"><em>ICCV 2025</em></span>
+<span class="venue">ICCV 2025</span>
 
 [Extending Foundational Monocular Depth Estimators to Fisheye Cameras with Calibration Tokens](https://www.arxiv.org/abs/2508.04928)  
 S. Gangopadhyay\*, Jung-Hee Kim\*, Xien Chen\*, **Patrick Rim**, Hyoungseob Park, Alex Wong  
-<span class="venue"><em>ICCV 2025</em></span>
+<span class="venue">ICCV 2025</span>
 
 [SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection](https://github.com/yichen928/SparseFusion)  
 Yichen Xie, Chenfeng Xu, MJ Rakotosaona, **Patrick Rim**, Federico Tombari, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
-<span class="venue"><em>ICCV 2023</em></span>
+<span class="venue">ICCV 2023</span>
 
 [Quadric Representations for LiDAR Odometry, Mapping and Localization](https://ieeexplore.ieee.org/document/10167749)  
 Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan  
-<span class="venue"><em>RA-L 2023</em></span>
+<span class="venue">RA-L 2023</span>
 
 </div>
 
