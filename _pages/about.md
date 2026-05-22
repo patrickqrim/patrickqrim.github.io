@@ -42,8 +42,9 @@ redirect_from:
   font-weight: 700;
 }
 @media (max-width: 640px) {
-  .exp-block { flex-direction: column; }
-  .exp-logo { max-width: 40%; flex: unset; }
+  .exp-block { gap: 0.9rem; }
+  .exp-logo { flex: 0 0 26%; max-width: 26%; }
+  .exp-text { font-size: 0.9rem; }
 }
 </style>
 
