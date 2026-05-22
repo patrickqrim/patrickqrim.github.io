@@ -52,3 +52,11 @@
     font-size: 30px;
   }
 }
+
+.greedy-nav .masthead__menu-item > a {
+  color: $dark-gray;
+}
+
+.greedy-nav .masthead__menu-item > a:hover {
+  color: $darker-gray;
+}
