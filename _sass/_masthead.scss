@@ -15,7 +15,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: "Avenir Next", "Avenir", "Century Gothic", $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -52,11 +52,15 @@
     font-size: 30px;
 
     > a {
-      color: #0f4d92;
+      color: #2f6f9f;
     }
   }
 }
 
-.greedy-nav .masthead__menu-item--lg > a {
-  color: #0f4d92;
+.greedy-nav .masthead__menu-item > a {
+  color: #2f6f9f;
+}
+
+.greedy-nav .masthead__menu-item > a:hover {
+  color: #1f537a;
 }
