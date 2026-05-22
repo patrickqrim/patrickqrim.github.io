@@ -273,11 +273,16 @@ Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keu
 document.addEventListener("DOMContentLoaded", function() {
   var sections = document.querySelectorAll("[data-section-flare]");
   if (!sections.length || !("IntersectionObserver" in window)) return;
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   var flare = function(section) {
     section.classList.remove("is-sparked");
     void section.offsetWidth;
     section.classList.add("is-sparked");
+
+    if (!reduceMotion && navigator.vibrate) {
+      navigator.vibrate(12);
+    }
   };
 
   var observer = new IntersectionObserver(function(entries) {
