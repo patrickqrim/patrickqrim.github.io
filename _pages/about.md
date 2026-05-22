@@ -78,10 +78,11 @@ redirect_from:
   font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
 }
 .home-pubs p > a:first-child {
-  font-family: "Avenir Next", "Avenir", "Century Gothic", sans-serif;
+  font-family: inherit;
   font-weight: 400;
 }
 .home-pubs .venue {
+  font-family: inherit;
   color: #557d9b;
 }
 @keyframes section-flare-sweep {
@@ -108,7 +109,6 @@ redirect_from:
 </style>
 
 <section class="home-section" data-section-flare>
-<div class="home-section__flare" aria-hidden="true"></div>
 
 <div class="exp-block">
   <div class="exp-logo">
