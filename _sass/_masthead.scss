@@ -51,8 +51,12 @@
     font-weight: 700;
     font-size: 30px;
 
-    a {
+    > a {
       color: #0f4d92;
     }
   }
+}
+
+.greedy-nav .masthead__menu-item--lg > a {
+  color: #0f4d92;
 }
