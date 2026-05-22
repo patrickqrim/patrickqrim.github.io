@@ -135,6 +135,7 @@ redirect_from:
   }
 }
 @media (max-width: 640px) {
+  .home-section:first-of-type { margin-top: 1.1rem; }
   .exp-block { gap: 0.9rem; }
   .exp-logo { flex: 0 0 26%; max-width: 26%; }
   .exp-text { font-size: 0.9rem; }
