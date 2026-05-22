@@ -88,18 +88,16 @@ redirect_from:
   animation: venue-color-wave 5.5s ease-in-out infinite;
 }
 .equal-contribution {
-  display: inline-block;
-  width: 70%;
-  max-width: 18rem;
+  width: 12rem;
   margin-top: 0.2rem;
-  text-align: center;
+  text-align: left;
   font-size: 0.875em;
   color: #777;
 }
 .equal-contribution__line {
   border-top: 1px solid #d6d6d6;
-  width: 72%;
-  margin: 0 auto 3px;
+  width: 8rem;
+  margin-bottom: 3px;
 }
 @keyframes section-line-breathe {
   0%, 100% { background-position: 0% 50%; }
