@@ -87,6 +87,20 @@ redirect_from:
   -webkit-text-fill-color: transparent;
   animation: venue-color-wave 5.5s ease-in-out infinite;
 }
+.equal-contribution {
+  display: inline-block;
+  width: 70%;
+  max-width: 18rem;
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 0.875em;
+  color: #777;
+}
+.equal-contribution__line {
+  border-top: 1px solid #d6d6d6;
+  width: 72%;
+  margin: 0 auto 3px;
+}
 @keyframes section-line-breathe {
   0%, 100% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
@@ -250,8 +264,8 @@ Chao Xia\*, Chenfeng Xu\*, **Patrick Rim**, Mingyu Ding, Nanning Zheng, Kurt Keu
 
 </div>
 
-<div style="display: inline-block; text-align: center;">
-  <div style="border-top: 1px solid #ccc; width: 100%; margin-bottom: 4px;"></div>
+<div class="equal-contribution">
+  <div class="equal-contribution__line"></div>
   * denotes Equal Contribution
 </div>
 
