@@ -45,22 +45,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-weight: 700;
 
   &--lg {
     padding-right: 1em;
+    font-weight: 700;
     font-size: 30px;
-
-    > a {
-      color: #2f6f9f;
-    }
   }
-}
-
-.greedy-nav .masthead__menu-item > a {
-  color: #2f6f9f;
-}
-
-.greedy-nav .masthead__menu-item > a:hover {
-  color: #1f537a;
 }
