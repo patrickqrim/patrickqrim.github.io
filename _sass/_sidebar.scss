@@ -65,6 +65,12 @@
   }
 }
 
+@media (max-width: 640px) {
+  .sidebar--mobile-hidden {
+    display: none;
+  }
+}
+
 /*
    Author profile and links
    ========================================================================== */
