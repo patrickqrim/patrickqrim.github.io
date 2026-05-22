@@ -45,10 +45,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-weight: 700;
 
   &--lg {
     padding-right: 1em;
-    font-weight: 700;
     font-size: 30px;
 
     > a {
