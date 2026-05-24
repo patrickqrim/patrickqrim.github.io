@@ -221,7 +221,7 @@ What coding agents did for white-collar workflows, physical AI will do for all o
 
 <div class="home-pubs" markdown="1">
 
-[SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://protodepth.github.io/)  
+[SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://arxiv.org/abs/2603.28760)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
 <span class="venue">CVPR 2026</span>
 
