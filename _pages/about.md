@@ -139,6 +139,7 @@ redirect_from:
   .exp-block { gap: 0.9rem; }
   .exp-logo { flex: 0 0 26%; max-width: 26%; }
   .exp-text { font-size: 0.9rem; }
+  .exp-dates .date-end { display: block; }
 }
 </style>
 
@@ -171,7 +172,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-google.svg" alt="Google">
-    <div class="exp-dates">May 2026 – Present</div>
+    <div class="exp-dates">May 2026 <span class="date-sep">–</span> <span class="date-end">Present</span></div>
   </div>
   <div class="exp-text">
     <strong>Google</strong> · Research Intern
@@ -182,7 +183,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-nvidia.svg" alt="NVIDIA">
-    <div class="exp-dates">Feb 2026 – May 2026</div>
+    <div class="exp-dates">Feb 2026 <span class="date-sep">–</span> <span class="date-end">May 2026</span></div>
   </div>
   <div class="exp-text">
     <strong>NVIDIA Research</strong> · Research Scientist Intern
@@ -193,7 +194,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-meta.svg" alt="Meta Reality Labs">
-    <div class="exp-dates">May 2025 – Jan 2026</div>
+    <div class="exp-dates">May 2025 <span class="date-sep">–</span> <span class="date-end">Jan 2026</span></div>
   </div>
   <div class="exp-text">
     <strong>Meta Reality Labs</strong> · Research Scientist Intern
