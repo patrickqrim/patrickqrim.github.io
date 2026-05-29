@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Currently..."
   avatar           : "profile_2025_cropped.jpg"
-  bio              : "AI Research at Google<br>PhD Candidate at Yale<br>Prev. NVIDIA, Meta, QR"
+  bio              : "AI Research at Google<br>PhD Candidate at Yale<br>Prev. NVIDIA, Meta, QR<br><span style=\"display:inline-block;margin-top:0.2rem;\">Building things (stay tuned)</span>"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
