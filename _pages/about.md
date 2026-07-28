@@ -209,7 +209,7 @@ redirect_from:
 
 ## What I Research and Why
 
-My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and range sensing.
+My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and 3D measurements.
 
 What coding agents did for white-collar workflows, physical AI will do for all of humankind.
 
