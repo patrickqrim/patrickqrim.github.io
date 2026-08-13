@@ -25,6 +25,15 @@ redirect_from:
   max-height: 38px;
   object-fit: contain;
 }
+.exp-logo--company {
+  transform: translateY(-0.2rem);
+}
+.exp-dates {
+  font-size: 0.72rem;
+  color: #777;
+  margin-top: 0.3rem;
+  line-height: 1.3;
+}
 .exp-text {
   flex: 1 1 0;
   font-size: 0.95rem;
@@ -140,6 +149,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-yale.svg" alt="Yale University">
+    <div class="exp-dates">2024 – 2028</div>
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
@@ -150,6 +160,7 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-caltech.svg" alt="Caltech" style="max-height:30px;">
+    <div class="exp-dates">2020 – 2024</div>
   </div>
   <div class="exp-text">
     <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
@@ -160,7 +171,7 @@ redirect_from:
 <hr style="border:none;border-top:1px solid #e1e1e1;margin:0.5rem 0 1.1rem;">
 
 <div class="exp-block">
-  <div class="exp-logo">
+  <div class="exp-logo exp-logo--company">
     <img src="/images/logo-google.svg" alt="Google">
   </div>
   <div class="exp-text">
@@ -170,7 +181,7 @@ redirect_from:
 </div>
 
 <div class="exp-block">
-  <div class="exp-logo">
+  <div class="exp-logo exp-logo--company">
     <img src="/images/logo-nvidia.svg" alt="NVIDIA">
   </div>
   <div class="exp-text">
@@ -180,7 +191,7 @@ redirect_from:
 </div>
 
 <div class="exp-block">
-  <div class="exp-logo">
+  <div class="exp-logo exp-logo--company">
     <img src="/images/logo-meta.svg" alt="Meta Reality Labs">
   </div>
   <div class="exp-text">
