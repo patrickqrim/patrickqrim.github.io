@@ -12,25 +12,18 @@ redirect_from:
   display: flex;
   gap: 1.25rem;
   margin-bottom: 1.4rem;
-  align-items: flex-start;
+  align-items: center;
 }
 .exp-logo {
   flex: 0 0 17%;
   max-width: 17%;
   text-align: center;
-  padding-top: 0.15rem;
 }
 .exp-logo img {
   width: 100%;
   height: auto;
   max-height: 38px;
   object-fit: contain;
-}
-.exp-dates {
-  font-size: 0.72rem;
-  color: #777;
-  margin-top: 0.3rem;
-  line-height: 1.3;
 }
 .exp-text {
   flex: 1 1 0;
@@ -139,7 +132,6 @@ redirect_from:
   .exp-block { gap: 0.9rem; }
   .exp-logo { flex: 0 0 26%; max-width: 26%; }
   .exp-text { font-size: 0.9rem; }
-  .exp-dates .date-end { display: block; }
 }
 </style>
 
@@ -148,7 +140,6 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-yale.svg" alt="Yale University">
-    <div class="exp-dates">2024 – 2028</div>
   </div>
   <div class="exp-text">
     <strong>Yale University</strong> · Ph.D., Computer Science
@@ -159,7 +150,6 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-caltech.svg" alt="Caltech" style="max-height:30px;">
-    <div class="exp-dates">2020 – 2024</div>
   </div>
   <div class="exp-text">
     <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
@@ -172,10 +162,9 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-google.svg" alt="Google">
-    <div class="exp-dates">May 2026 <span class="date-sep">–</span> <span class="date-end">Present</span></div>
   </div>
   <div class="exp-text">
-    <strong>Google</strong> · Research Intern
+    <strong>Google DeepMind</strong>
     <p style="margin:0.2rem 0 0 0;">Building real-time streaming 3D reconstruction and end-to-end transformer-based SLAM, integrating open-vocabulary semantic distillation from Gemini to power robotic manipulation, navigation, and AR/VR applications.</p>
   </div>
 </div>
@@ -183,10 +172,9 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-nvidia.svg" alt="NVIDIA">
-    <div class="exp-dates">Feb 2026 <span class="date-sep">–</span> <span class="date-end">May 2026</span></div>
   </div>
   <div class="exp-text">
-    <strong>NVIDIA Research</strong> · Research Scientist Intern
+    <strong>NVIDIA Research</strong>
     <p style="margin:0.2rem 0 0 0;">Led the creation of Spatial-IQ, a novel hierarchical framework that deconstructs spatial reasoning in multimodal LLMs. Post-training on Spatial-IQ via chained SFT-CoT and RLVR improves spatial intelligence.</p>
   </div>
 </div>
@@ -194,10 +182,9 @@ redirect_from:
 <div class="exp-block">
   <div class="exp-logo">
     <img src="/images/logo-meta.svg" alt="Meta Reality Labs">
-    <div class="exp-dates">May 2025 <span class="date-sep">–</span> <span class="date-end">Jan 2026</span></div>
   </div>
   <div class="exp-text">
-    <strong>Meta Reality Labs</strong> · Research Scientist Intern
+    <strong>Meta Reality Labs</strong>
     <p style="margin:0.2rem 0 0 0;">Led the creation of SHOW3D, the first ever hand-object interaction dataset captured in the wild. The most valuable 4.6 million frames of egocentric data ever captured, open-sourced for the community!</p>
   </div>
 </div>
@@ -211,7 +198,7 @@ redirect_from:
 
 My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and 3D measurements.
 
-What coding agents did for white-collar workflows, physical AI will do for all of humankind.
+What digital agents did for white-collar workflows, physical AI will do for all of humankind.
 
 </section>
 
@@ -224,7 +211,7 @@ What coding agents did for white-collar workflows, physical AI will do for all o
 
 [Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](https://arxiv.org/abs/2607.22864)  
 **Patrick Rim**, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung  
-<span class="venue">Under Review</span>
+<span class="venue">Under Review, 2026</span>
 
 [SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://arxiv.org/abs/2603.28760)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
@@ -237,6 +224,10 @@ What coding agents did for white-collar workflows, physical AI will do for all o
 [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](https://arxiv.org/abs/2411.16750)  
 Ziyao Zeng, Jingcheng Ni, Daniel Wang, **Patrick Rim**, Younjoon Chung, Fengyu Yang, Byung-Woo Hong, Alex Wong  
 <span class="venue">CVPR 2026</span>
+
+[Ego-Exo 3D Hand Pose Estimation via Multimodal Fusion](https://arxiv.org/abs/2603.28760)  
+**Patrick Rim**, David Hunt, Tim Li, Ismael Diaz, Xinyi Xie, Miroslav Pajic, Alex Wong  
+<span class="venue">Under Review, 2026</span>
 
 [ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting](https://arxiv.org/abs/2506.05480)  
 Daniel Wang, **Patrick Rim**, Tian Tian, Alex Wong, Ganesh Sundaramoorthi  
