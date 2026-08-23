@@ -147,30 +147,6 @@ redirect_from:
 <section class="home-section" data-section-flare>
 
 <div class="exp-block">
-  <div class="exp-logo">
-    <img src="/images/logo-yale.svg" alt="Yale University">
-    <div class="exp-dates">2024 – 2028</div>
-  </div>
-  <div class="exp-text">
-    <strong>Yale University</strong> · Ph.D., Computer Science
-    <p style="margin:0.2rem 0 0 0;">Researching 3D computer vision and multimodal AI systems at Yale Vision Lab.</p>
-  </div>
-</div>
-
-<div class="exp-block">
-  <div class="exp-logo">
-    <img src="/images/logo-caltech.svg" alt="Caltech" style="max-height:30px;">
-    <div class="exp-dates">2020 – 2024</div>
-  </div>
-  <div class="exp-text">
-    <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
-    <p style="margin:0.2rem 0 0 0;">Awarded in recognition of the Best Academic Record in Computer Science.</p>
-  </div>
-</div>
-
-<hr style="border:none;border-top:1px solid #e1e1e1;margin:0.5rem 0 1.1rem;">
-
-<div class="exp-block">
   <div class="exp-logo exp-logo--company">
     <img src="/images/logo-google.svg" alt="Google">
   </div>
@@ -200,12 +176,34 @@ redirect_from:
   </div>
 </div>
 
+<hr style="border:none;border-top:1px solid #e1e1e1;margin:0.5rem 0 1.1rem;">
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-yale.svg" alt="Yale University">
+  </div>
+  <div class="exp-text">
+    <strong>Yale University</strong> · Ph.D., Computer Science
+    <p style="margin:0.2rem 0 0 0;">Researching 3D computer vision and multimodal AI systems at Yale Vision Lab.</p>
+  </div>
+</div>
+
+<div class="exp-block">
+  <div class="exp-logo">
+    <img src="/images/logo-caltech.svg" alt="Caltech" style="max-height:30px;">
+  </div>
+  <div class="exp-text">
+    <strong>Caltech</strong> · B.S., Computer Science &amp; Applied Mathematics (minor)
+    <p style="margin:0.2rem 0 0 0;">Awarded in recognition of the Best Academic Record in Computer Science.</p>
+  </div>
+</div>
+
 </section>
 
 <section class="home-section" data-section-flare markdown="1">
 <div class="home-section__flare" aria-hidden="true"></div>
 
-## What I Research and Why
+## Research Vision
 
 My work is centered on building embodied AI agents capable of adaptive, efficient, and robust physical perception. My research bridges the gap between digital reasoning and the physical world by integrating multimodal capabilities across vision, language, and 3D measurements.
 
