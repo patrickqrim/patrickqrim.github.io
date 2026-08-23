@@ -220,11 +220,11 @@ What digital agents did for white-collar workflows, physical AI will do for all 
 
 <div class="home-pubs" markdown="1">
 
-[Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](https://arxiv.org/abs/2607.22864)  
+[Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](https://nvidia.github.io/Spatial-IQ/)  
 **Patrick Rim**, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung  
 <span class="venue">Under Review, 2026</span>
 
-[SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://arxiv.org/abs/2603.28760)  
+[SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild](https://show3d-dataset.github.io/)  
 **Patrick Rim**, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, Tomas Hodan, Kun He  
 <span class="venue">CVPR 2026</span>
 
