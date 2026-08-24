@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<script>
+  if (
+    window.location.hostname === "patrickqrim.github.io" &&
+    (window.location.pathname === "/" || window.location.pathname === "/index.html")
+  ) {
+    window.location.replace("https://patrickrim.com/publications/");
+  }
+</script>
+
 <style>
 .exp-block {
   display: flex;

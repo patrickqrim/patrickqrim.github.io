@@ -131,6 +131,13 @@
   }
 }
 
+.build-logo-text {
+  display: inline-block;
+  font-family: "Radvinka Bold", "Radvinka", "Avenir Next", "Avenir", $sans-serif;
+  font-weight: 700;
+  text-transform: lowercase;
+}
+
 .author__bio {
   margin: 0;
 
