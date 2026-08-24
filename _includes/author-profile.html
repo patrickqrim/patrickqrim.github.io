@@ -15,12 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">
-      <span>{{ author.name }}</span>
-      {% if author.build_logo %}
-        <img src="{{ author.build_logo | prepend: "/images/" | prepend: base_path }}" class="build-logo" alt="Build">
-      {% endif %}
-    </h3>
+    <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
