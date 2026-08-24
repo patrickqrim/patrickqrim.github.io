@@ -123,6 +123,9 @@
   }
 }
 .sidebar .author__name {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
   font-family: "Avenir Next", "Avenir", "Century Gothic", $sans-serif;
   font-size: $type-size-5;
 
@@ -131,11 +134,14 @@
   }
 }
 
-.build-logo-text {
-  display: inline-block;
-  font-family: "Radvinka Bold", "Radvinka", "Avenir Next", "Avenir", $sans-serif;
-  font-weight: 700;
-  text-transform: lowercase;
+.sidebar .author__name .build-logo {
+  width: auto;
+  height: 1.05em;
+  max-width: 5.2em;
+  border: 0;
+  padding: 0;
+  border-radius: 0;
+  transform: translateY(0.14em);
 }
 
 .author__bio {
