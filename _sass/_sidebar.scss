@@ -133,6 +133,29 @@
   }
 }
 
+.sidebar .author__social-icons {
+  align-items: center;
+}
+
+@include breakpoint($large) {
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    max-width: 175px;
+    text-align: center;
+  }
+
+  .sidebar .author__avatar img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .sidebar .author__social-icons {
+    justify-content: center;
+  }
+}
+
 .author__bio {
   margin: 0;
 
