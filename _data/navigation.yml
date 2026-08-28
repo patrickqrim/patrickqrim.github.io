@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /
+    url: https://patrickrim.com/
 
   - title: "Publications"
     url: /publications/
