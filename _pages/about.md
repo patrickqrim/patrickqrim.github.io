@@ -151,6 +151,9 @@ redirect_from:
   .exp-logo { flex: 0 0 26%; max-width: 26%; }
   .exp-text { font-size: 0.9rem; }
 }
+@media (min-width: 925px) {
+  .home-section:first-of-type { padding-top: 0; }
+}
 </style>
 
 <section class="home-section" data-section-flare>
